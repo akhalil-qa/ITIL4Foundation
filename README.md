@@ -1,7 +1,7 @@
 <h1 dir="rtl" align="right">تجربتي مع اختبار ITIL 4 Foundation</h1>
 <p align="center"><img src="banner.png" width="75%" height="75%" /></p>
 <h2 dir="rtl" align="right">مقدمة</h2>
-<p dir="rtl" align="right">ITIL وما يعرف بـ (Information Techolongy Infrastructure Library) هي بنية أو إطارية (Framework) لأفضل التطبيقات والممارسات (Best Practices) لإدارة آليات تقديم ودعم خدمات تكنولوجيا المعلومات (IT Service Management) بمنهجية وجودة عالية.</p>
+<p dir="rtl" align="right">ITIL أو ما يعرف بـ (Information Techolongy Infrastructure Library) هي بنية أو إطارية (Framework) لأفضل التطبيقات والممارسات (Best Practices) لإدارة آليات تقديم ودعم خدمات تكنولوجيا المعلومات (IT Service Management) بمنهجية وجودة عالية.</p>
 <p dir="rtl" align="right">كما تعتبر شهادة (<a href="https://www.axelos.com/certifications/itil-certifications/itil-foundation">ITIL 4 Foundation</a>) الشهادة الأساسية في هذا المجال والتي تقدم من منظمة (<a href="https://www.axelos.com/">AXELOS</a>) البريطانية (نفس المنظمة التي تقدم شهادات <a href="https://www.axelos.com/best-practice-solutions/prince2">Prince2</a> المعروفة في مجال إدارة المشاريع).</p>
 <p dir="rtl" align="right">هذه الشهادة ترويجا تجاريا كبيرا مقارنة بالشهادات الأخرى من نفس المجال، ولذلك تعترف بأهميتها معظم الشركات والمؤسسات، بالرغم من أنها فعليها مناسبة لمن يقوم بالبدء بمجال الأمن السيبراني والاختبار الأخلاقي.</p>
 <h2 dir="rtl" align="right">منهج اختبار ITIL 4 Foundation</h2>
